@@ -90,7 +90,7 @@ video {
 }
 
 
-/* HTML5 display-role reset for older browsers */
+/* html for older browsers */
 
 article,
 aside,
@@ -133,6 +133,7 @@ table tr td {
 }
 
 body {
+    background-color: red;
     background: url(../images/texture.jpg) repeat;
     font-family: Gerogia;
     font-size: 15px;
